@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice_Game_1</string>
+    <string name="player_A">Player A</string>
+    <string name="player_B">Player B</string>
+    <string name="game_point">Game Point</string>
+    <string name="score_A">0</string>
+    <string name="game_score">100</string>
+    <string name="score_B">0</string>
+    <string name="dice_game_contentDescription">dice_game_content_view</string>
+    <string name="start_game">START</string>
+</resources>
